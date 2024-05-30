@@ -28,8 +28,7 @@ index.html: Contains the structure of the website with different sections.
 styles.css: Contains the styling rules for the website, including the layout, colors, and responsiveness.
 script.js: Contains JavaScript code to add interactivity, such as changing navbar color on scroll and hover effects.
 
-# Link of the project: https://github.com/Nandu-9-5/PRODIGY_TrackCode_TaskNumber
-
+# Link of the project:  https://github.com/Nandu-9-5/PRODIGY_WD_01
 # Screenshot of the website
 
 ![image](https://github.com/Nandu-9-5/PRODIGY_TrackCode_TaskNumber/assets/168712637/73ee33cb-1b94-4ae8-bdfa-8078a1b579e7)
